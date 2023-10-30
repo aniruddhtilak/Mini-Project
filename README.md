@@ -1,6 +1,6 @@
 # Mini-Project
 Final Mini Project of CPPDS course (Sem-3)
-Problem Statement - Food items, Stationery items and Sports items are arriving continuously in the supermarket randomly but in a queue. 
+**Problem Statement -** Food items, Stationery items and Sports items are arriving continuously in the supermarket randomly but in a queue. 
 Sort and store the items in the three different stacks and update and display the individual count. Also, display the contents of individual stacks.
 
 
@@ -10,7 +10,7 @@ The `MyStack` class provides a custom implementation of a stack data structure. 
 
 
 
-Algorithm - 
+**Algorithm -** 
 1. Define a class `MyStack` to represent a stack data structure with `push`, `pop`, and `isEmpty` methods.
 
 2. Declare and initialize arrays for three different menus: `sports_menu`, `food_menu`, and `stationery_menu`, each containing 10 items.
